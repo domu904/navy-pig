@@ -1,6 +1,7 @@
 Welcome to the Navy-pig project
 ============================
-Playing around with the hyperdev environment
+Playing around with the hyperdev environment. 
+To check it out live go to https://navy-pig.hyperdev.space/
 
 
 Your Project
