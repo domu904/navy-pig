@@ -1,9 +1,7 @@
-Welcome to the HyperDev BETA
+Welcome to the Navy-pig project
 ============================
-
-Click `"Show"` in the header to see your app is live. Updates to your code will instantly deploy and update live.
-
-HyperDev is a developer playground that lets you code a real web-app without the slow setup and deployment steps. 
+Playing around with the hyperdev environment. 
+To check it out live go to https://navy-pig.hyperdev.space/
 
 
 Your Project
@@ -19,7 +17,6 @@ On the front-end,
 - drag in `assets`, like images or music, to add them to your project
 
 
-Made by Fog Creek
+Kudos to Fog Creek
 -----------------
 
-\ ゜o゜)ノ
