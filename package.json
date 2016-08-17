@@ -11,7 +11,9 @@
 	},
 	"dependencies": {
 		"express": "^5.0.0-alpha.2",
-		"jasmine": "^2.4.1"
+		"jasmine": "^2.4.1",
+		"asyn": "^0.0.1",
+		"util": "^0.10.3"
 	},
 	"engines": {
 		"node": "4.4.3"
