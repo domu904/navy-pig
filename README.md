@@ -4,11 +4,11 @@ Playing around with the hyperdev environment.
 To check it out live go to https://navy-pig.hyperdev.space/
 
 
-Your Project
+The Project
 ------------
 
 On the back-end,
-- your app starts at `server.js`
+- The app starts at `server.js`
 - add frameworks and packages in `package.json`
 - safely store app secrets in `.env`
 
