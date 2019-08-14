@@ -11,12 +11,15 @@
 	},
 	"dependencies": {
 		"express": "^5.0.0-alpha.2",
-		"jasmine": "^2.4.1",
+		"jasmine": "^2.5.2",
 		"asyn": "^0.0.1",
-		"util": "^0.10.3"
+		"util": "^0.10.3",
+		"fs": "^0.0.2",
+		"path": "^0.12.7",
+		"body-parser": "^1.15.2"
 	},
 	"engines": {
-		"node": "4.4.3"
+		"node": "4.4.5"
 	},
 	"repository": {
 		"type": "git",
